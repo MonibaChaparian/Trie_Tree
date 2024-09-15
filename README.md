@@ -1,4 +1,5 @@
-Trie Tree Implementation in Java
+Trie Tree Implementation in Java 
+
 This project implements a Trie data structure in Java, which is a type of search tree used for efficient storage and retrieval of strings. The program includes a user-friendly menu system that allows users to insert, search, delete, and display words from the Trie.
 
 Key Features:
